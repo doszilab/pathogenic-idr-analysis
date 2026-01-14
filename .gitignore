@@ -16,5 +16,4 @@ setup_data.py
 figure_lists.md
 data/processed
 data/raw
-output/figures
-output/tables
+output
