@@ -8,7 +8,7 @@ The project integrates multi-omics data from **ClinVar**, **MobiDB**, **AlphaMis
 
 The repository is organized into two main components:
 
-### 1. Analysis Pipeline (`paper_replication`)
+### 1. Analysis Pipeline (`analysis_pipeline`)
 This component reproduces the statistical analyses and figures presented in the manuscript:
 * **Structural Analysis:** Distribution of variants across the proteome and structural composition (Figure 1).
 * **Disease Ontology:** Analysis of genetic complexity (Monogenic vs. Polygenic) and IDR-specific mutations (Figure 2).
