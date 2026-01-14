@@ -15,7 +15,7 @@ This component reproduces the statistical analyses and figures presented in the 
 * **Functional Landscape:** Investigation of PDB coverage, linear motifs, and post-translational modifications (Figure 3).
 
 ### 2. Prediction Model (`prediction_model`)
-This component implements machine learning experiments, specifically a **Decision Tree** model, to predict pathogenicity based on sequence features and linear motif context.
+This component implements machine learning experiments, specifically a **Decision Tree** model, to predict linear motif based on alphamissense features.
 
 ## 🛠 Modules
 
